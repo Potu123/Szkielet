@@ -1,7 +1,6 @@
 Szkelet do sprawozadania
 
-#Pamiętajcie by zmienić w plikach konfiguracyjnych imie i nazwisko autora
-Pamiętajcie by zmienić w plikach konfiguracyjnych imie i nazwisko autora
+# Pamiętajcie by zmienić w plikach konfiguracyjnych imie i nazwisko autora
 
 Nie mam pojęcia ile tych plików jest, ani gdzie szukać powodzenia
 
